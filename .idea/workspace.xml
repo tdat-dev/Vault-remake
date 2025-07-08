@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f13ede52-18b5-4330-a264-0309f3bce44f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-vi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/milkbowl/vault/chat/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/milkbowl/vault/economy/Economy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/milkbowl/vault/economy/EconomyResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/CommandsEX.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/DroxPerms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/EssentialsGroupManager.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/KPerms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Permissions.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/PermissionsBukkit.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/PermissionsEx.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Privileges.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimplyPerms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Starburst.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/TotalPermissions.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Xperms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bpermissions.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bpermissions25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/iChat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mChat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mChatSuite.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/overpermissions-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rscPermissions.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/milkbowl/vault/Vault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/milkbowl/vault/Vault.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2zbHtVycWUkpM6PHYIFlS5jo6LT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.Vault [clean,install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f13ede52-18b5-4330-a264-0309f3bce44f" name="Changes" comment="" />
+      <created>1751993069838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751993069838</updated>
+      <workItem from="1751993070379" duration="1541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
