@@ -26,9 +26,9 @@
 	</organization>
 
 	<scm>
-		<url>https://github.com/MilkBowl/Vault</url>
-		<connection>scm:git:git://github.com:MilkBowl/Vault.git</connection>
-		<developerConnection>scm:git:git@github.com:MilkBowl/Vault.git</developerConnection>
+		<url>https://github.com/tdat-dev/Vault-remake</url>
+		<connection>scm:git:git://github.com:tdat-dev/Vault-remake.git</connection>
+		<developerConnection>scm:git:git@github.com:tdat-dev/Vault-remake.git</developerConnection>
 	</scm>
 
 	<issueManagement>

@@ -112,11 +112,11 @@ public class Vault extends JavaPlugin {
                                 log.info("Checking for Updates ... ");
                                 newVersion = updateCheck(currentVersion);
                                 if (newVersion > currentVersion) {
-                                    log.warning("Stable Version: " + newVersionTitle + " is out!"
-                                            + " You are still running version: " + currentVersionTitle);
-                                    log.warning("Update at: https://dev.bukkit.org/projects/vault");
+                                    log.warning("Phiên bản mới: " + newVersionTitle + " đã có!"
+                                            + " Bạn đang dùng phiên bản: " + currentVersionTitle);
+                                    log.warning("Cập nhật tại: https://github.com/tdat-dev/Vault-remake");
                                 } else if (currentVersion > newVersion) {
-                                    log.info("Stable Version: " + newVersionTitle + " | Current Version: "
+                                    log.info("Phiên bản mới: " + newVersionTitle + " | Phiên bản hiện tại: "
                                             + currentVersionTitle);
                                 }
                             } catch (Exception e) {
