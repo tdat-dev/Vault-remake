@@ -51,7 +51,7 @@ import org.json.simple.JSONValue;
 
 public class Vault extends JavaPlugin {
 
-    private static final String VAULT_BUKKIT_URL = "https://dev.bukkit.org/projects/Vault";
+    private static final String VAULT_BUKKIT_URL = "https://github.com/tdat-dev/Vault-remake/releases/latest";
     private static Logger log;
     private Permission perms;
     private String newVersionTitle = "";
