@@ -1,4 +1,3 @@
-# Vault - Thư viện trừu tượng cho Bukkit
 # Vault - Thư viện trừu tượng cho Bukkit/Spigot
 
 ## Dành cho nhà phát triển:

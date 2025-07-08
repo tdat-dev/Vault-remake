@@ -1,9 +1,9 @@
 name: ${project.name}
-version: ${project.version}-b${env.TRAVIS_BUILD_NUMBER}
+version: ${project.version}
 description: ${project.description}
 authors: [cereal, Sleaker, mung3r]
 website: ${project.url}
-api-version: 1.13
+api-version: 1.20
 
 main: ${mainClass}
 load: startup
